@@ -1,8 +1,8 @@
 # SQL-Project
 
 Task Information :
-Let us consider a BikeStore company which sells bikes across the country in multiple states along
-with the service centres spread across the states.
+Let us consider a BikeStore company that sells bikes across the country in multiple states along
+with the service centers spread across the states.
 Consider the below diagram :<img width="799" alt="Screenshot 2023-08-30 at 4 51 57 PM" src="https://github.com/Gautam-Bhandare/SQL-Project/assets/95260147/f849ec93-435e-4114-ac1c-122f0a4db908">
 
 As you can see from the diagram, the BikeStores sample database has two schemas : **sales**
@@ -61,5 +61,6 @@ The production.stocks table stores the inventory information i.e. the quantity o
 particular product in a specific store.
 
 Note - 
-- The dataset is in txt format, convert into csv and directly import into snowflake
-- Table structure is included in file attachment 
+- The dataset is in Txt format, convert into CSV and directly import into Snowflake.
+- The table structure is included in the file attachment.
+- All the task information is present in a pdf file which includes the task and solution.
