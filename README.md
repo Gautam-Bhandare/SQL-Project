@@ -59,3 +59,7 @@ A sales order line item includes product, order quantity, list price, and discou
 **production.stocks**
 The production.stocks table stores the inventory information i.e. the quantity of a
 particular product in a specific store.
+
+Note - 
+- The dataset is in txt format, convert into csv and directly import into snowflake
+- Table structure is included in file attachment 
